@@ -1,4 +1,7 @@
 ## Spam vs HAM (Sentiment Analysis)
+
+### Description:
+
 This project focuses on entity-level sentiment analysis using Artificial Neural Networks (ANN) applied to a dataset comprising SMS messages. The primary objective is to discern the sentiment of each message concerning a specific entity. The dataset is labeled into two classes: "Spam" and "Ham."
 
 ### Dataset Overview:
